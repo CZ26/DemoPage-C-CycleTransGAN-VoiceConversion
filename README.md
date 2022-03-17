@@ -1,1 +1,1 @@
-# DemoPage-Controllable-CycleTransGAN-CG-VoiceConversion
+# DemoPage-Controllable-CycleTransGAN-VC
